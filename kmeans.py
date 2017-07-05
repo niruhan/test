@@ -6,6 +6,7 @@ def euclidean_distance(a,b):
     return distance
 
 dataPoints = [[6,1],[5,2],[5,3],[6,3],[7,2],[2,4],[1,5],[1,6],[2,6],[3,5],[3,6]]
+#print (dataPoints)
 
 k = 2
 
@@ -61,3 +62,4 @@ while(True):
 
     if (centroidShifted==False):
         break
+
